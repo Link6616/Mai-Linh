@@ -1,2 +1,0 @@
-# Mai-Linh
-Python
